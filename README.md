@@ -40,6 +40,14 @@
 > . -> hace referencia al directorio actual
 - Recordatorio: Para ver los comandos usados con anterioridad y si quieres volver a usarlos, escribe:
 > history
-- Para borrar un directorio 
-
+- Para borrar un directorio desde el directorio expresion_facial
+> rmdir ../complemento
+- Otro comando para borrar directorio en la ruta avatar
+> rm -r ../../avatar/complemento
+- Para crear un directorio
+> mkdir "Inserta el nombre del directorio"
+- Entra en el directorio
+> cd "nombre del directorio creado"
+-Para descargar una imagen png de prueba, que puede ser usada como expresión facial posteriormente moviéndola a avatar/expresion_facial
+> wget "URL de la imagen a descargar"
 
