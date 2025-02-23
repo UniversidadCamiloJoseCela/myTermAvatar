@@ -44,6 +44,8 @@
 > rmdir ../complemento
 - Otro comando para borrar directorio en la ruta avatar
 > rm -r ../../avatar/complemento
+- Si quieres borrar un fichero, por ejemplo, una expresión facial
+> rm burla.png
 - Para crear un directorio
 > mkdir "Inserta el nombre del directorio"
 - Entra en el directorio
