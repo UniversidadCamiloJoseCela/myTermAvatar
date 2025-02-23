@@ -50,6 +50,7 @@
 > mkdir "Inserta el nombre del directorio"
 - Entra en el directorio
 > cd "nombre del directorio creado"
--Para descargar una imagen png de prueba, que puede ser usada como expresión facial posteriormente moviéndola a avatar/expresion_facial
+- Para descargar una imagen png de prueba, que puede ser usada como expresión facial posteriormente moviéndola a avatar/expresion_facial
 > wget "URL de la imagen a descargar"
-
+- Usar clear para limpiar la terminal
+> clear
